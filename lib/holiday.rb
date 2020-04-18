@@ -1,7 +1,7 @@
 require 'pry'
 
 def second_supply_for_fourth_of_july(holiday_hash)
-    this:
+    holiday_supplies:
    {
      :winter => {
        :christmas => ["Lights", "Wreath"],
